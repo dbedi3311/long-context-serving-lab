@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+matplotlib
+scikit-learn
+# Install your preferred torch build for the target GPU
+# flash-attn is optional but recommended for fast attention kernels
+# pip install flash-attn --no-build-isolation
+faiss-gpu

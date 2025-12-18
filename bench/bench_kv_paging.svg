@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320">
+<rect x="0" y="0" width="640" height="320" fill="#ffffff" stroke="#dddddd"/>
+<text x="320.0" y="20" text-anchor="middle" font-family="Arial" font-size="16">kv_paging</text>
+<line x1="50" y1="270" x2="590" y2="270" stroke="#000" stroke-width="1"/>
+<line x1="50" y1="50" x2="50" y2="270" stroke="#000" stroke-width="1"/>
+<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="50.00,270.00 124.93,269.99 151.80,269.98 191.62,269.97 247.23,269.97 280.48,269.97 339.12,269.97 415.52,269.97 504.87,269.96 590.00,269.96" />
+<text x="510" y="50" fill="#1f77b4" font-size="12">page_misses</text>
+<polyline fill="none" stroke="#ff7f0e" stroke-width="2" points="50.00,247.30 124.93,183.99 151.80,161.28 191.62,127.64 247.23,127.64 280.48,99.55 339.12,50.00 415.52,50.00 504.87,50.00 590.00,50.00" />
+<text x="510" y="65" fill="#ff7f0e" font-size="12">bytes_spilled</text>
+</svg>

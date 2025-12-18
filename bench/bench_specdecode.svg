@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320">
+<rect x="0" y="0" width="640" height="320" fill="#ffffff" stroke="#dddddd"/>
+<text x="320.0" y="20" text-anchor="middle" font-family="Arial" font-size="16">specdecode</text>
+<line x1="50" y1="270" x2="590" y2="270" stroke="#000" stroke-width="1"/>
+<line x1="50" y1="50" x2="50" y2="270" stroke="#000" stroke-width="1"/>
+<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="50.00,226.31 109.56,226.31 156.35,226.31 195.47,167.54 289.63,167.54 374.75,50.00 462.03,226.31 523.16,167.54 557.56,50.00 590.00,50.00" />
+<text x="510" y="50" fill="#1f77b4" font-size="12">draft_batch</text>
+<polyline fill="none" stroke="#ff7f0e" stroke-width="2" points="50.00,268.35 109.56,261.36 156.35,270.00 195.47,261.01 289.63,260.10 374.75,260.10 462.03,260.27 523.16,259.10 557.56,264.33 590.00,260.92" />
+<text x="510" y="65" fill="#ff7f0e" font-size="12">accept_rate</text>
+</svg>

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+matplotlib
+scikit-learn
+# Optional vector index acceleration
+faiss-cpu; platform_system != 'Windows'
